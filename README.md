@@ -1,0 +1,2 @@
+# JBsettings
+JetBrains IDEs settings
